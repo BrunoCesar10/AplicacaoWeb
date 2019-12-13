@@ -81,6 +81,12 @@
                 <p>&copy; <%: DateTime.Now.Year %> - Bruno César</p>
             </footer>
         </div>
+        <style>
+        body {
+            background-image: url(https://explorerray.files.wordpress.com/2014/01/wpid-gs3a1225.jpg);
+            background-size: cover;
+        }
+        </style>
     </form>
 </body>
 </html>
