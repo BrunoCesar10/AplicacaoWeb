@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="Página Inicial" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="AplicacaoWeb._Default" %>
 
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="BodyContent" ContentPlaceHolerID="MainContent" runat="server">
 
     <div class="jumbotron bg-success">
         <h1>Página Teste</h1>
