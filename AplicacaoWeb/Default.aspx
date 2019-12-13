@@ -6,7 +6,7 @@
         <h1>Página Teste</h1>
         <p class="lead">Aplicação Web criada para o teste do Jenkins</p>
         <p><a target="_blank" href="https://jenkins.io/doc/" class="btn btn-primary btn-lg" >Documentação Jenkins &raquo;</a></p>
-    </div>
+    <div>
 
     <div class="row">
         <div class="col-md-4">
