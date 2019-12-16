@@ -13,7 +13,7 @@
             <div class="card" style="max-width: 18rem;">
                 <div class="card-body">
                     <h2 class="card-title">Bom Dia!</h2>
-                    <p class="card-text">Clique no botão abaixo caso esteja de dia.</p>
+                    <p class="card-text">Clique no botão abaixo caso esteja de manhã.</p>
                     <p>
                         <a class="btn btn-success" target="_blank" href="https://www.frasesdobem.com.br/frases-bonitas-de-bom-dia">Bom Dia &raquo;</a>
                     </p>
