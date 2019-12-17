@@ -13,7 +13,7 @@
             <div class="card" style="max-width: 18rem;">
                 <div class="card-body">
                     <h2 class="card-title">Bom Dia!</h2>
-                    <p class="card-text">Clique no botão abaixo caso seja depois das três da manhã e antes de meio-dia.</p>
+                    <p class="card-text">Clique no botão abaixo caso seja depois das cinco da manhã e antes de meio-dia.</p>
                     <p>
                         <a class="btn btn-success" target="_blank" href="https://www.frasesdobem.com.br/frases-bonitas-de-bom-dia">Bom Dia &raquo;</a>
                     </p>
@@ -35,7 +35,7 @@
             <div class="card" style="max-width: 18rem;">
                 <div class="card-body">
                     <h2 class="card-title">Boa Noite!</h2>
-                    <p class="card-text">Clique no botão abaixo caso seja após sete da noite e antes das quatro da manhã.</p>
+                    <p class="card-text">Clique no botão abaixo caso seja após sete da noite e antes das cinco da manhã.</p>
                     <p>
                         <a class="btn btn-primary" target="_blank" href="https://www.frasesdobem.com.br/frases-de-boa-noite">Boa Noite &raquo;</a>
                     </p>

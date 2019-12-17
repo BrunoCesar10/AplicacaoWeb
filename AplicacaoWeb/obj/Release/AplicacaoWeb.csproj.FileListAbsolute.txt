@@ -76,3 +76,4 @@ C:\Users\BRUNO_FONTES\Documents\Visual Studio 2015\Projects\AplicacaoWeb\Aplicac
 C:\Users\BRUNO_FONTES\Documents\Visual Studio 2015\Projects\AplicacaoWeb\AplicacaoWeb\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\BRUNO_FONTES\Documents\Visual Studio 2015\Projects\AplicacaoWeb\AplicacaoWeb\obj\Release\AplicacaoWeb.dll
 C:\Users\BRUNO_FONTES\Documents\Visual Studio 2015\Projects\AplicacaoWeb\AplicacaoWeb\obj\Release\AplicacaoWeb.pdb
+C:\Users\BRUNO_FONTES\Documents\Visual Studio 2015\Projects\AplicacaoWeb\AplicacaoWeb\obj\Release\AplicacaoWeb.csprojResolveAssemblyReference.cache
