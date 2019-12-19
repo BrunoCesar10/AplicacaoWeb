@@ -212,6 +212,7 @@
     </Content>
     <None Include="Properties\PublishProfiles\TesteJenkinsWeb - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\TesteJenkinsWeb - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\TesteJenkinsWeb.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />

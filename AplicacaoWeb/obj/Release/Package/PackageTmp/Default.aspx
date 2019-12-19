@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron bg-success">
-        <h1>Página Teste</h1>
+        <h1>Teste Jenkins</h1>
         <p class="lead">Aplicação Web criada para o teste do Jenkins</p>
         <p><a target="_blank" href="https://jenkins.io/doc/" class="btn btn-primary btn-lg" >Documentação Jenkins &raquo;</a></p>
     </div>
@@ -13,7 +13,7 @@
             <div class="card" style="max-width: 18rem;">
                 <div class="card-body">
                     <h2 class="card-title">Bom Dia!</h2>
-                    <p class="card-text">Clique no botão abaixo caso seja depois das duas da manhã e antes de meio-dia.</p>
+                    <p class="card-text">Clique no botão abaixo caso seja depois das nove da manhã e antes de meio-dia.</p>
                     <p>
                         <a class="btn btn-success" target="_blank" href="https://www.frasesdobem.com.br/frases-bonitas-de-bom-dia">Bom Dia &raquo;</a>
                     </p>
@@ -35,7 +35,7 @@
             <div class="card" style="max-width: 18rem;">
                 <div class="card-body">
                     <h2 class="card-title">Boa Noite!</h2>
-                    <p class="card-text">Clique no botão abaixo caso seja após sete da noite e antes das duas da manhã.</p>
+                    <p class="card-text">Clique no botão abaixo caso seja após sete da noite e antes das nove da manhã.</p>
                     <p>
                         <a class="btn btn-primary" target="_blank" href="https://www.frasesdobem.com.br/frases-de-boa-noite">Boa Noite &raquo;</a>
                     </p>
