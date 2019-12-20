@@ -357,5 +357,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Web.config">
       <publishTime>12/19/2019 10:18:11</publishTime>
     </File>
+    <ADUsesOwinOrOpenIdConnect>False</ADUsesOwinOrOpenIdConnect>
+    <AuthType>NTLM</AuthType>
   </ItemGroup>
 </Project>

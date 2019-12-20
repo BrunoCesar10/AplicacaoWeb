@@ -4,7 +4,7 @@
 
     <div class="jumbotron bg-success">
         <h1>Teste De Implementação Aplicativo Web</h1>
-        <p class="lead">Aplicação Web criada para o teste do Jenkins</p>
+        <p class="lead">Aplicação Web criada para o teste do Jenkins, utilizando o deploy do IIS por linha de comando</p>
         <p><a target="_blank" href="https://jenkins.io/doc/" class="btn btn-primary btn-lg" >Documentação Jenkins &raquo;</a></p>
     </div>
 
