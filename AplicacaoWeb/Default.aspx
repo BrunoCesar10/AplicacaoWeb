@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron bg-success">
-        <h1>Teste De Implementação Jenkins com IIS</h1>
+        <h1>Teste De Implementação Jenkins</h1>
         <p class="lead">Aplicação Web criada para o teste do Jenkins, utilizando o deploy do IIS por linha de comando</p>
         <p><a target="_blank" href="https://jenkins.io/doc/" class="btn btn-primary btn-lg" >Documentação Jenkins &raquo;</a></p>
     </div>
