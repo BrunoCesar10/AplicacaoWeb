@@ -10,7 +10,7 @@
 
     <div class="row">
         <div class="col-md-4">
-            <div class="card">
+            <div class="card text-center">
                 <div class="card-body">
                     <h2 class="card-title">Bom Dia!</h2>
                     <p class="card-text">Clique no botão abaixo caso seja depois das nove da manhã e antes de meio-dia.</p>
@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card">
+            <div class="card text-center">
                 <div class="card-body">
                     <h2 class="card-title">Boa Tarde!</h2>
                     <p class="card-text">Clique no botão abaixo caso seja após meio-dia e antes das sete da noite.</p>
@@ -32,7 +32,7 @@
             </div>
         </div>           
         <div class="col-md-4">
-            <div class="card">
+            <div class="card text-center">
                 <div class="card-body">
                     <h2 class="card-title">Boa Noite!</h2>
                     <p class="card-text">Clique no botão abaixo caso seja após sete da noite e antes das nove da manhã.</p>
