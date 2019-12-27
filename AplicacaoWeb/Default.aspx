@@ -24,7 +24,7 @@
             <div class="card" style="max-width: 18rem;">
                 <div class="card-body">
                     <h2 class="card-title">Boa Tarde!</h2>
-                    <p class="card-text">Clique no botão abaixo caso seja após meio-dia e antes das sete da noite.</p>
+                    <p class="card-text-white bg-secondary mb-3">Clique no botão abaixo caso seja após meio-dia e antes das sete da noite.</p>
                     <p>
                         <a class="btn btn-warning" target="_blank" href="https://www.frasesdobem.com.br/frases-de-boa-tarde">Boa Tarde &raquo;</a>
                     </p>
