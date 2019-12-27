@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron bg-success">
-        <h1>Teste De Implementação Jenkins Web pelo IIS</h1>
+        <h1 class="text-white">Teste De Implementação Jenkins Web pelo IIS</h1>
         <p class="lead">Aplicação Web criada para o teste do Jenkins, utilizando o deploy do IIS por linha de comando</p>
         <p><a target="_blank" href="https://jenkins.io/doc/" class="btn btn-primary btn-lg" >Documentação Jenkins &raquo;</a></p>
     </div>
@@ -24,7 +24,7 @@
             <div class="card" style="max-width: 18rem;">
                 <div class="card-body">
                     <h2 class="card-title">Boa Tarde!</h2>
-                    <p class="card-text-white bg-secondary mb-3">Clique no botão abaixo caso seja após meio-dia e antes das sete da noite.</p>
+                    <p class="card-text">Clique no botão abaixo caso seja após meio-dia e antes das sete da noite.</p>
                     <p>
                         <a class="btn btn-warning" target="_blank" href="https://www.frasesdobem.com.br/frases-de-boa-tarde">Boa Tarde &raquo;</a>
                     </p>
