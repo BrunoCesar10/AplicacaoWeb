@@ -88,6 +88,8 @@
         body {
             background-image: url(https://explorerray.files.wordpress.com/2014/01/wpid-gs3a1225.jpg);
             background-size: cover;
+        }
+        card {
             color: white;
         }
         </style>
