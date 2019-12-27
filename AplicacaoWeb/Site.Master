@@ -91,6 +91,7 @@
         }
         div.card {
             color: white;
+            background-color: aliceblue;
         }
         </style>
     </form>
