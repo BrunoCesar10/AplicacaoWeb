@@ -88,8 +88,21 @@
             background-image: url(https://explorerray.files.wordpress.com/2014/01/wpid-gs3a1225.jpg);
             background-size: cover;
         }
+        div.card-group {
+            display: flex;
+        }
         div.card {
-            color: white;
+            padding: 5px;
+            padding-left: 10px;
+            color: black;
+            background-color: #eee;
+            border-radius: 5px;
+            margin-bottom: 60px;
+        }
+        div.container2 {
+            padding: 10px;
+            background-color: #eee;
+            border-radius: 5px;
         }
         </style>
     </form>

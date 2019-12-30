@@ -8,9 +8,9 @@
         <p><a target="_blank" href="https://jenkins.io/doc/" class="btn btn-primary btn-lg" >Documentação Jenkins &raquo;</a></p>
     </div>
 
-    <div class="row">
+    <div class="card-group">
         <div class="col-md-4">
-            <div class="card text-center">
+            <div class="card">
                 <div class="card-body">
                     <h2 class="card-title">Bom Dia!</h2>
                     <p class="card-text">Clique no botão abaixo caso seja depois das nove da manhã e antes de meio-dia.</p>
@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="card text-center">
+            <div class="card">
                 <div class="card-body">
                     <h2 class="card-title">Boa Tarde!</h2>
                     <p class="card-text">Clique no botão abaixo caso seja após meio-dia e antes das sete da noite.</p>
@@ -32,7 +32,7 @@
             </div>
         </div>           
         <div class="col-md-4">
-            <div class="card text-center">
+            <div class="card">
                 <div class="card-body">
                     <h2 class="card-title">Boa Noite!</h2>
                     <p class="card-text">Clique no botão abaixo caso seja após sete da noite e antes das nove da manhã.</p>
@@ -42,5 +42,8 @@
                 </div>
             </div>
         </div> 
+    </div>
+    <div class="container2">
+        <h1 class="card-title">Os Benefícios da Yoga</h1>
     </div>
 </asp:Content>
